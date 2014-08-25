@@ -1,0 +1,14 @@
+- Config Git - username & branches
+
+- Make branches for bug fixes and features.
+- Work and commit locally
+- Merge to master once done
+- Delete working branch (TBD)
+- History remains
+- Can push branch to remote too.
+
+
+-Git show
+-Git reset --hard
+
+git fetch --all
