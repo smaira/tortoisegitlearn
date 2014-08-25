@@ -11,4 +11,4 @@
 -Git show
 -Git reset --hard
 
-git fetch --all
+git fetch --abc
